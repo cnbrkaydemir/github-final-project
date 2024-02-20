@@ -1,2 +1,7 @@
-# Responsive-AI
-Responsive AI refers to artificial intelligence systems that are designed to adapt and respond to user input or environmental changes in real time. These systems leverage machine learning algorithms, natural language processing, and other AI technologies to understand and interpret data, enabling them to provide personalized responses, recommendations, or actions based on the context or user behavior. Responsive AI is crucial in applications ranging from virtual assistants and chatbots that offer tailored customer service experiences, to smart home devices that adjust settings based on user preferences and patterns. The goal of responsive AI is to create more intuitive, efficient, and user-centric experiences, by dynamically adjusting to the needs and expectations of its users, thereby enhancing interaction and satisfaction. This adaptability also extends to learning from interactions, where the AI system continuously improves its responses and decisions over time, making it an invaluable tool in evolving technological landscapes.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r
